@@ -1,11 +1,11 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 table {
@@ -19,7 +19,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #ef6b69;
 }
 
 .error {
@@ -33,12 +33,13 @@ tr:nth-child(even) {
 }
 
 .total {
-  font-size: 150%;
+  margin-top: 40px;
+  font-size: 120%;
   text-decoration: underline;
 }
 
 .form {
-  margin-top: 25px;
+  margin-top: 40px;
   width: 100%;
 }
 
