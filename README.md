@@ -17,7 +17,7 @@
   <img src="./public/images/budget-tracker-ss.png" />
   <br />
 
-  - to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
+  This app is an existing budget tracker application that was updated to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
 
   # Installation
 
@@ -30,6 +30,7 @@
   - JavaScript
   - Node.js
   - Express.js
+  - MongoDB
   - Progressive Web Application (PWA)
 
   # Repository
